@@ -16,4 +16,5 @@ Questions that have been answered:
 8. What is the main reason for the gap in height values distribution by hospitals?
 9. Which correspond to the relatively small and big values?
 
-![matplotlib.pyplot and seaborn visualization](https://github.com/AXEG0/data-analysis-for-hospitals/Figure_1.png?raw=true)
+Visualization of the last 3 questions:
+![matplotlib.pyplot and seaborn visualization](https://github.com/AXEG0/data-analysis-for-hospitals/blob/main/Figure_1.png?raw=true)
