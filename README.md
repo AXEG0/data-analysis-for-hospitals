@@ -19,10 +19,9 @@ Questions that have been answered:
 Visualization of the last 3 questions:
 ![matplotlib.pyplot and seaborn visualization](https://github.com/AXEG0/data-analysis-for-hospitals/blob/main/Figure_1.png?raw=true)
 
-Python 3.9
+Python 3.9:
 Package               Version
---------------------- ---------
-matplotlib            3.5.1
-numpy                 1.22.2
-pandas                1.3.4
-seaborn               0.11.2
+- matplotlib            3.5.1
+- numpy                 1.22.2
+- pandas                1.3.4
+- seaborn               0.11.2
