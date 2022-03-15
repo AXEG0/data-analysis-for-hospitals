@@ -1,7 +1,7 @@
 Stages:
 1. Loaded data from CSV files
 2. Maked a single dataset from several CSV files
-3. Dataset is inconsistent and contain mistakes, it's fixed
+3. Dataset is inconsistent and contain mistakes, this has been fixed
 4. Used pandas statistics tools to gain insights from data
 5. Used matplotlib.pyplot and seaborn visualization tools to present data succinctly
 
